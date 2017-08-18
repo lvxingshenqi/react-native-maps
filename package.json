@@ -53,9 +53,4 @@
     "react": "^16.0.0-alpha.12",
     "react-native": "^0.45.1"
   },
-  "rnpm": {
-    "android": {
-      "sourceDir": "./lib/android"
-    }
-  }
 }
